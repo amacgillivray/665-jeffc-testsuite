@@ -1,0 +1,10 @@
+jeffc
+*.d
+*.o
+*.cc
+*.err
+*.err.expected
+*.err.diff
+*.out
+*.out.expected
+*.out.diff
